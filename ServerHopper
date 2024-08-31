@@ -1,4 +1,5 @@
-if not game.isLoaded then game.isLoaded:Wait()
+if not game.isLoaded then 
+  game.isLoaded:Wait()
 end
 print("no!")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))();
