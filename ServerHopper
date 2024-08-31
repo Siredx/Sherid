@@ -4,4 +4,4 @@ end
 print("no!")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 
-queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Siredx/Sherid/main/ServerHopper))()")
+queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Siredx/Sherid/main/ServerHopper'))()")
