@@ -1,4 +1,2 @@
-if not game:IsLoaded() then game.IsLoaded:Wait()
-end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
-queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()')
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))();
+queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Siredx/Sherid/main/ServerHopper'))")
